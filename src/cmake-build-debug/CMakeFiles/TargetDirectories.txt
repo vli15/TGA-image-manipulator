@@ -1,0 +1,3 @@
+C:/Users/vli15/Downloads/P3/src/cmake-build-debug/CMakeFiles/image-processor.dir
+C:/Users/vli15/Downloads/P3/src/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/vli15/Downloads/P3/src/cmake-build-debug/CMakeFiles/rebuild_cache.dir

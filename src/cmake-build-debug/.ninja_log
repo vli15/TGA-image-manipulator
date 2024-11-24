@@ -1,0 +1,11 @@
+# ninja log v6
+2	385	7541739124047946	build.ninja	ed6dbd486e48982a
+21	236	7528088267108575	CMakeFiles/src.dir/Pixel.cpp.obj	d8baf97b7c03f3f4
+4	313	7529869302706477	CMakeFiles/src.dir/Image.cpp.obj	89fcc262a2064720
+4	390	7529194635914726	CMakeFiles/src.dir/main.cpp.obj	b5f92ebc8149c4d8
+391	523	7529930738566635	src.exe	b2d19df295e93fa1
+8	391	7529930734733759	CMakeFiles/src.dir/image-processor.cpp.obj	945dcfb80d82e503
+11	84	7541739306370602	CMakeFiles/image-processor.dir/src/Pixel.cpp.obj	aa5d507497e07329
+18	356	7541739306441690	CMakeFiles/image-processor.dir/src/Image.cpp.obj	5d98764defe6e8ba
+2	407	7541739306287363	CMakeFiles/image-processor.dir/src/main.cpp.obj	635237cebc5c2109
+407	529	7541739310343735	image-processor.exe	9dd1a3b3d2d01fc5
